@@ -1,4 +1,4 @@
-def suma(n1,n2,n3,n4,n5):
+def suma(n1,n2,n3,n4):
     c = n1 + n2 + n3 + n4
 
     return c
